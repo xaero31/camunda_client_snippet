@@ -1,0 +1,2 @@
+to remove for example failed running instance - use REST API:
+DELETE http://localhost:8080/engine-rest/process-instance/{instance_uid}
